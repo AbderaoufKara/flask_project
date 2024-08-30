@@ -1,0 +1,1 @@
+c'était une galère pour tout mettre d'un coup, jai du voir plein de tuto sur comment utulisé git mais c'était bien, le projet en lui meme c'était abordable car j'avais déjà de l'éxperience sur comment mettre un site, j'ai juste du apprendre un peu de flask.
